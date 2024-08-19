@@ -1,0 +1,8 @@
+Debug/
+obj/
+.vs/
+random.vcxproj.*
+random.*
+output.tga
+zbuffer.tga
+depth.tga
