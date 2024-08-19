@@ -14,4 +14,4 @@ Features included
 - Programmable vertex and fragment shaders.
 - Math library for operations on matrices, vectors and points
 - Texture, normals and specular intensities mapped through Blinn Phong shaders.
-- Shadow mapping by rendering the scene in 2 passes.
+- Shadow mapping the scene by rendering it in 2 passes.
